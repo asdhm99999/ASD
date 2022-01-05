@@ -10,7 +10,7 @@ $admmm = "736792574";
 
 $tbbots = "asdhm2"; // بدون @
 
-$API_KEY = "1739195468:AAG29M83cyLFBBUfsMMrAmHUBP0jozWxdvw";
+$API_KEY = "5048998931:AAFKq08U8g0iV4jfgyYR-222VdI6GsNSDmw";
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
     $iBadlz = http_build_query($datas);
